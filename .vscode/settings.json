@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "s5pc110.h": "c"
+    }
+}
